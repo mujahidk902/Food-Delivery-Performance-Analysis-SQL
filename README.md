@@ -41,9 +41,6 @@ The goal is to identify key factors impacting delivery time and provide actionab
 - ORDER BY
 - CASE WHEN
 - Aggregate Functions
-- Joins
-- Date Functions
-- Subqueries
 
 ## Business Questions Solved
 
@@ -53,24 +50,27 @@ The goal is to identify key factors impacting delivery time and provide actionab
 4. Which city category has the highest delivery time?
 5. What is the relationship between distance and delivery time?
 6. Which Order Type Takes More Time?
-7. Which is Top Peroforming Riders ?
-8. Top Cities by Orders.
-9. Monthly Trend.
-10. City-wise Delivery Performance.
+7. Which riders perform better than average?
+8. Which cities generate the highest order volume?
+9. How do order volumes change over time?
+10. Which city category experiences the highest delivery delays?
 
 ## Key Insights
 
 - Jam traffic creates the highest delivery delays.
-- Cloudy and Foggy weather increase delivery time.
+- Cloudy and foggy weather increase delivery time.
 - Festival periods lead to longer delivery times.
-- Metropolitan cities generate the highest order volume.
+- Semi-Urban cities have the highest average delivery time.
+- Longer delivery distances significantly increase delivery time.
+- Scooters show lower average delivery times than motorcycles.
 
 ## Business Recommendations
 
-- Increase rider allocation during festivals.
-- Introduce dynamic routing during traffic jams.
-- Improve weather-based delivery planning.
-- Optimize rider deployment by city category.
+- Increase rider availability during festival periods.
+- Implement dynamic routing to reduce traffic-related delays.
+- Use weather-based delivery planning and customer ETAs.
+- Optimize delivery assignments for long-distance orders.
+- Deploy faster vehicle types in high-demand zones.
 
 ## Dashboard Preview
 
@@ -85,6 +85,15 @@ The goal is to identify key factors impacting delivery time and provide actionab
 - MySQL
 - Excel
 - GitHub
+
+## Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Analysis
+- Data Visualization
+- KPI Reporting
 
 ## Author
 
