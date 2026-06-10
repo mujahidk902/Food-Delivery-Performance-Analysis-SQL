@@ -74,7 +74,10 @@ The goal is to identify key factors impacting delivery time and provide actionab
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="508" height="727" alt="image" src="https://github.com/user-attachments/assets/78eb2684-2d55-4792-8ed4-90e7646633a5" />
+
+<img width="497" height="661" alt="image" src="https://github.com/user-attachments/assets/d7ed056a-d8eb-4551-bb2c-2769eb3ec1d4" />
+
 
 ## Tools Used
 
