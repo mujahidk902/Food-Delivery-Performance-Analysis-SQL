@@ -97,5 +97,6 @@ The goal is to identify key factors impacting delivery time and provide actionab
 
 ## Author
 
-Mujahid Khan
-Data Analyst
+- Mujahid Khan
+- Data Analyst
+
